@@ -6,4 +6,5 @@ if (0) {
 } else {
   alert("Nooo");
 }
+//"Nooo"
 ```
